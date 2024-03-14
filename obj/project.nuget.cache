@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "iHQOLdMUhJvdSgyJpTIa3r253qIpEHwfuMkEHhwD1dF4uQNE4Smyfru2ioHyISBrvOZMj7lHnemrHaQMof5XGA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rkovilpitchai\\source\\repos\\my-books\\my-books\\my-books.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rkovilpitchai\\.nuget\\packages\\fsharp.core\\8.0.100\\fsharp.core.8.0.100.nupkg.sha512"
+  ],
+  "logs": []
+}
